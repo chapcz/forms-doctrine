@@ -13,7 +13,8 @@
 		"nette/di": "^2.3"
 	},
 	"require-dev": {
-		"codeception/codeception": "^2.2"
+		"codeception/codeception": "^2.2",
+		"phpunit/phpunit": "*"
 	},
 	"autoload": {
 		"classmap": [
