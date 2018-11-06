@@ -14,7 +14,8 @@
 	},
 	"require-dev": {
 		"codeception/codeception": "^2.2",
-		"phpunit/phpunit": "*"
+		"phpunit/phpunit": "*",
+		"kdyby/doctrine": "*"
 	},
 	"autoload": {
 		"classmap": [
